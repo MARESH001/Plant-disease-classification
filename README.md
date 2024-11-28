@@ -1,4 +1,4 @@
-# Plant Disease Classification Web Application
+# Plant Disease Classification Web Application 🌱
 
 This is a web application that allows farmers to identify and confirm plant diseases using deep learning models. Currently, the model is trained to classify **Potato** diseases and can identify three classes: 
 - Potato___Early_blight
